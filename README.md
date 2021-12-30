@@ -7,7 +7,7 @@ message "Encountered exception".
  
 You are tasked with figuring out what's gone wrong.
  
-1. Check out your snippets package.
+1. Check out the contents of the project directory.
 2. In your terminal, change directories into the `logs` subdirectory - in the same directory as this README.
 3. First, we should find out what logs contain information about the error we’re seeing. 
   * Use `grep` in the log directory to find files containing the error exception message.
